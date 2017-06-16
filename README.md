@@ -15,8 +15,8 @@ How to build FileBot in a nutshell:
 
 4. Fetch dependencies through ivy:
 
-```ant resolve```
+    ```ant resolve```
 
 5. Build fat jar:
 
-```ant fatjar```
+    ```ant fatjar```
