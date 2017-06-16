@@ -20,3 +20,7 @@ How to build FileBot in a nutshell:
 5. Build fat jar:
 
     ```ant fatjar```
+
+6. Install [WiX Toolset](http://wixtoolset.org/releases/) to build MSI installer
+
+    ```ant msi```
